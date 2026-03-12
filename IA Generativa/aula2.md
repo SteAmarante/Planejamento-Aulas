@@ -1,5 +1,5 @@
 # 🧠 Modelos de Linguagem (LLMs)
-### Uma introdução intuitiva
+
 
 ---
 
@@ -182,6 +182,4 @@ A **janela de contexto** é a quantidade de texto que o modelo consegue "ver" de
 - [Andrej Karpathy — Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) — do zero em Python
 - [Sebastian Raschka — LLMs from scratch](https://github.com/rasbt/LLMs-from-scratch)
 
----
 
-> ✍️ *Aula elaborada para introdução intuitiva a LLMs — sem pré-requisitos avançados de matemática.*
